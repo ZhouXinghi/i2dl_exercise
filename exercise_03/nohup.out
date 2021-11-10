@@ -1,0 +1,427 @@
+[I 23:58:38.447 NotebookApp] Serving notebooks from local directory: /home/zhouxing/Documents/i2dl_exercises/exercise_03
+[I 23:58:38.447 NotebookApp] The Jupyter Notebook is running at:
+[I 23:58:38.447 NotebookApp] http://localhost:8888/?token=2782863932d00402210c3cd55947f64a3d6e0e9bc2e1ef43
+[I 23:58:38.447 NotebookApp]  or http://127.0.0.1:8888/?token=2782863932d00402210c3cd55947f64a3d6e0e9bc2e1ef43
+[I 23:58:38.447 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:58:38.477 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/zhouxing/.local/share/jupyter/runtime/nbserver-59809-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=2782863932d00402210c3cd55947f64a3d6e0e9bc2e1ef43
+     or http://127.0.0.1:8888/?token=2782863932d00402210c3cd55947f64a3d6e0e9bc2e1ef43
+[W 23:58:40.119 NotebookApp] Notebook 2_dataloader.ipynb is not trusted
+[I 23:58:40.600 NotebookApp] Kernel started: f054ff75-d7c8-4c6a-ab0b-f42cfc69d67f
+[I 23:58:40.603 NotebookApp] 302 GET /notebooks/images/i2dlsubmission.png (127.0.0.1) 1.27ms
+[I 00:00:40.593 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 00:02:06.304 NotebookApp] Starting buffering for f054ff75-d7c8-4c6a-ab0b-f42cfc69d67f:34548a7368394fee82f280bb918f0745
+[I 00:02:16.451 NotebookApp] The port 8888 is already in use, trying another port.
+[I 00:02:16.453 NotebookApp] Serving notebooks from local directory: /home/zhouxing/Documents/i2dl_exercises/exercise_03
+[I 00:02:16.453 NotebookApp] The Jupyter Notebook is running at:
+[I 00:02:16.453 NotebookApp] http://localhost:8889/?token=cda1eae31feaa49bf7c2f356810829a7470764497c3e09d5
+[I 00:02:16.453 NotebookApp]  or http://127.0.0.1:8889/?token=cda1eae31feaa49bf7c2f356810829a7470764497c3e09d5
+[I 00:02:16.453 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:02:16.499 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/zhouxing/.local/share/jupyter/runtime/nbserver-60323-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=cda1eae31feaa49bf7c2f356810829a7470764497c3e09d5
+     or http://127.0.0.1:8889/?token=cda1eae31feaa49bf7c2f356810829a7470764497c3e09d5
+[I 00:02:18.596 NotebookApp] Kernel started: d98aa9a4-f7fe-4ef4-98cc-5d1b63580cea
+[I 00:02:18.600 NotebookApp] 302 GET /notebooks/images/i2dlsubmission.png (127.0.0.1) 1.74ms
+[I 00:02:30.802 NotebookApp] The port 8888 is already in use, trying another port.
+[I 00:02:30.802 NotebookApp] The port 8889 is already in use, trying another port.
+[I 00:02:30.804 NotebookApp] Serving notebooks from local directory: /home/zhouxing/Documents/i2dl_exercises/exercise_03
+[I 00:02:30.804 NotebookApp] The Jupyter Notebook is running at:
+[I 00:02:30.804 NotebookApp] http://localhost:8890/?token=a0cc0137c085d42e417007ff249be8a265450b7e03009170
+[I 00:02:30.804 NotebookApp]  or http://127.0.0.1:8890/?token=a0cc0137c085d42e417007ff249be8a265450b7e03009170
+[I 00:02:30.804 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:02:30.831 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/zhouxing/.local/share/jupyter/runtime/nbserver-60513-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=a0cc0137c085d42e417007ff249be8a265450b7e03009170
+     or http://127.0.0.1:8890/?token=a0cc0137c085d42e417007ff249be8a265450b7e03009170
+[I 00:02:33.909 NotebookApp] Kernel started: 234d187c-dade-4c6c-9a92-8cf8625276dc
+[I 00:10:33.934 NotebookApp] Saving file at /1_cifar10-image-dataset.ipynb
+[I 00:12:34.074 NotebookApp] Saving file at /1_cifar10-image-dataset.ipynb
+[I 00:14:18.599 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 00:34:18.597 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 00:38:18.592 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 00:40:18.593 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 00:42:19.064 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 01:34:18.593 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 01:36:18.594 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 01:50:19.071 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 01:52:18.593 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 13:04:39.892 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 13:06:39.883 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 13:16:39.894 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 13:18:39.883 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 13:20:39.885 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 13:26:39.886 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 14:24:55.376 NotebookApp] Saving file at /1_cifar10-image-dataset.ipynb
+[I 14:26:39.891 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 14:34:39.884 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 14:36:33.270 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 14:36:33.507 NotebookApp] Starting buffering for d98aa9a4-f7fe-4ef4-98cc-5d1b63580cea:33b1d46432c441298b5b8a75417f9f2f
+[I 14:36:33.546 NotebookApp] Starting buffering for 234d187c-dade-4c6c-9a92-8cf8625276dc:fd975fb5006f42138f2d44849521e331
+[I 14:38:52.438 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:38:52.439 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:38:52.439 NotebookApp] The port 8890 is already in use, trying another port.
+[I 14:38:52.441 NotebookApp] Serving notebooks from local directory: /home/zhouxing/Documents/i2dl_exercises/exercise_03
+[I 14:38:52.441 NotebookApp] The Jupyter Notebook is running at:
+[I 14:38:52.441 NotebookApp] http://localhost:8891/?token=913b545fb27a49dafe6f6eb6cb5c57a011b1f61f9d07d734
+[I 14:38:52.441 NotebookApp]  or http://127.0.0.1:8891/?token=913b545fb27a49dafe6f6eb6cb5c57a011b1f61f9d07d734
+[I 14:38:52.441 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:38:52.480 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/zhouxing/.local/share/jupyter/runtime/nbserver-83140-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=913b545fb27a49dafe6f6eb6cb5c57a011b1f61f9d07d734
+     or http://127.0.0.1:8891/?token=913b545fb27a49dafe6f6eb6cb5c57a011b1f61f9d07d734
+[I 14:38:55.479 NotebookApp] Kernel started: f5e033f7-6a71-4ab9-adeb-7a9095b18f6e
+[I 14:38:55.489 NotebookApp] 302 GET /notebooks/images/i2dlsubmission.png (127.0.0.1) 4.81ms
+2021-11-08 14:39:30,767 [   1977]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-11-08 14:39:30,773 [   1983]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-11-08 14:39:30,773 [   1983]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-11-08 14:39:30,773 [   1983]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-11-08 14:39:30,815 [   2025]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+2021-11-08 14:39:30,818 [   2028]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: PythonCore] 
+2021-11-08 14:39:30,818 [   2028]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: PythonCore] 
+2021-11-08 14:39:31,811 [   3021]   WARN - l.NotificationGroupManagerImpl - Notification group CodeWithMe is already registered (group=com.intellij.notification.NotificationGroup@5081ae9d). Plugin descriptor: PluginDescriptor(name=Code With Me, id=com.jetbrains.codeWithMe, descriptorPath=plugin.xml, path=/opt/pycharm-community-2021.2.3/plugins/cwm-plugin, version=212.5457.59, package=null) 
+Atom was 0
+2021-11-08 14:39:54,941 [  26151]   WARN - i.application.ex.ClipboardUtil - Java bug #6322854 
+java.lang.NullPointerException: Failed to retrieve atom name.
+	at java.desktop/sun.awt.X11.XlibWrapper.XGetAtomName(Native Method)
+	at java.desktop/sun.awt.X11.XAtom.getName(XAtom.java:189)
+	at java.desktop/sun.awt.X11.XDataTransferer.getTargetNameForAtom(XDataTransferer.java:172)
+	at java.desktop/sun.awt.X11.XDataTransferer.getNativeForFormat(XDataTransferer.java:161)
+	at java.desktop/sun.awt.datatransfer.DataTransferer.getFlavorsForFormats(DataTransferer.java:423)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.checkContentsQuick(ClipboardSynchronizer.java:336)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.areDataFlavorsAvailable(ClipboardSynchronizer.java:263)
+	at com.intellij.ide.ClipboardSynchronizer.lambda$areDataFlavorsAvailable$0(ClipboardSynchronizer.java:73)
+	at com.intellij.openapi.application.ex.ClipboardUtil.handleClipboardSafely(ClipboardUtil.java:18)
+	at com.intellij.ide.ClipboardSynchronizer.areDataFlavorsAvailable(ClipboardSynchronizer.java:73)
+	at com.intellij.ide.LocalCopyPasteManager.areDataFlavorsAvailable(LocalCopyPasteManager.java:45)
+	at com.intellij.ide.LocalCopyPasteManager.getContents(LocalCopyPasteManager.java:220)
+	at com.intellij.ide.CopyPasteManagerEx.getContents(CopyPasteManagerEx.java:85)
+	at com.intellij.openapi.application.ex.ClipboardUtil.getTextInClipboard(ClipboardUtil.java:39)
+	at com.intellij.openapi.vcs.changes.patch.ApplyPatchFromClipboardAction.update(ApplyPatchFromClipboardAction.java:26)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performDumbAwareUpdate$0(ActionUtil.java:130)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareUpdate(ActionUtil.java:144)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.doUpdate(ActionUpdater.java:592)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.lambda$updateActionReal$7(ActionUpdater.java:132)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.lambda$callAction$9(ActionUpdater.java:187)
+	at com.intellij.openapi.progress.ProgressManager.lambda$runProcess$0(ProgressManager.java:57)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:183)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:705)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:647)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:63)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:170)
+	at com.intellij.openapi.progress.ProgressManager.runProcess(ProgressManager.java:57)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.lambda$callAction$10(ActionUpdater.java:185)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdateEdtExecutor.lambda$computeOnEdt$0(ActionUpdateEdtExecutor.java:45)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:199)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$invokeLater$4(ApplicationImpl.java:350)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:84)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:133)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:46)
+	at com.intellij.openapi.application.impl.FlushQueue$FlushNow.run(FlushQueue.java:189)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:885)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:754)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:825)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:440)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:486)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+[I 14:40:55.476 NotebookApp] Saving file at /2_dataloader.ipynb
+Atom was 0
+2021-11-08 14:44:19,562 [ 290772]   WARN - i.application.ex.ClipboardUtil - Java bug #6322854 
+java.lang.NullPointerException: Failed to retrieve atom name.
+	at java.desktop/sun.awt.X11.XlibWrapper.XGetAtomName(Native Method)
+	at java.desktop/sun.awt.X11.XAtom.getName(XAtom.java:189)
+	at java.desktop/sun.awt.X11.XDataTransferer.getTargetNameForAtom(XDataTransferer.java:172)
+	at java.desktop/sun.awt.X11.XDataTransferer.getNativeForFormat(XDataTransferer.java:161)
+	at java.desktop/sun.awt.datatransfer.DataTransferer.getFlavorsForFormats(DataTransferer.java:423)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.checkContentsQuick(ClipboardSynchronizer.java:336)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.areDataFlavorsAvailable(ClipboardSynchronizer.java:263)
+	at com.intellij.ide.ClipboardSynchronizer.lambda$areDataFlavorsAvailable$0(ClipboardSynchronizer.java:73)
+	at com.intellij.openapi.application.ex.ClipboardUtil.handleClipboardSafely(ClipboardUtil.java:18)
+	at com.intellij.ide.ClipboardSynchronizer.areDataFlavorsAvailable(ClipboardSynchronizer.java:73)
+	at com.intellij.ide.LocalCopyPasteManager.areDataFlavorsAvailable(LocalCopyPasteManager.java:45)
+	at com.intellij.ide.LocalCopyPasteManager.getContents(LocalCopyPasteManager.java:220)
+	at com.intellij.ide.LocalCopyPasteManager.getAllContents(LocalCopyPasteManager.java:229)
+	at com.intellij.ide.CopyPasteManagerEx.getAllContents(CopyPasteManagerEx.java:90)
+	at com.intellij.ide.PsiCopyPasteManager$1.projectClosing(PsiCopyPasteManager.java:59)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeMethod(MessageBusImpl.java:645)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:620)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$300(MessageBusImpl.java:33)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.executeOrAddToQueue(MessageBusImpl.java:208)
+	at com.intellij.util.messages.impl.CompositeMessageBus$ToDirectChildrenMessagePublisher.publish(CompositeMessageBus.java:105)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.invoke(MessageBusImpl.java:166)
+	at com.sun.proxy.$Proxy59.projectClosing(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectClosing(ProjectManagerImpl.java:408)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$closeProject$5(ProjectManagerImpl.java:365)
+	at com.intellij.openapi.util.ShutDownTracker.executeWithStopperThread(ShutDownTracker.java:114)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeProject(ProjectManagerImpl.java:348)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeAndDisposeAllProjects(ProjectManagerImpl.java:295)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:205)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:602)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:555)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:544)
+	at com.intellij.openapi.application.ex.ApplicationEx.exit(ApplicationEx.java:75)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.quitApp(CloseProjectWindowHelper.kt:65)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.windowClosing(CloseProjectWindowHelper.kt:43)
+	at com.intellij.openapi.wm.impl.ProjectFrameHelper$2.windowClosing(ProjectFrameHelper.java:228)
+	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+	at java.desktop/java.awt.Window.processWindowEvent(Window.java:2090)
+	at java.desktop/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
+	at java.desktop/java.awt.Window.processEvent(Window.java:2049)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:885)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:754)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:825)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:440)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:492)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+[I 14:44:55.469 NotebookApp] Saving file at /2_dataloader.ipynb
+[I 14:45:04.712 NotebookApp] Starting buffering for f5e033f7-6a71-4ab9-adeb-7a9095b18f6e:754efc482f7f40fc892cff81cfb75cd4
+2021-11-08 15:23:37,958 [    972]   WARN - ntellij.ui.svg.SvgCacheManager - Icon cache will be recreated or previous version of data reused, (db=/home/zhouxing/.cache/JetBrains/PyCharmCE2021.2/icons-v3.db) 
+2021-11-08 15:23:39,312 [   2326]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-11-08 15:23:39,316 [   2330]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-11-08 15:23:39,316 [   2330]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-11-08 15:23:39,316 [   2330]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-11-08 15:23:39,369 [   2383]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+2021-11-08 15:23:39,371 [   2385]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: PythonCore] 
+2021-11-08 15:23:39,371 [   2385]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: PythonCore] 
+2021-11-08 15:23:40,714 [   3728]   WARN - l.NotificationGroupManagerImpl - Notification group CodeWithMe is already registered (group=com.intellij.notification.NotificationGroup@73bc96ab). Plugin descriptor: PluginDescriptor(name=Code With Me, id=com.jetbrains.codeWithMe, descriptorPath=plugin.xml, path=/opt/pycharm-community-2021.2.3/plugins/cwm-plugin, version=212.5457.59, package=null) 
+Atom was 0
+2021-11-08 15:23:48,654 [  11668]   WARN - i.application.ex.ClipboardUtil - Java bug #6322854 
+java.lang.NullPointerException: Failed to retrieve atom name.
+	at java.desktop/sun.awt.X11.XlibWrapper.XGetAtomName(Native Method)
+	at java.desktop/sun.awt.X11.XAtom.getName(XAtom.java:189)
+	at java.desktop/sun.awt.X11.XDataTransferer.getTargetNameForAtom(XDataTransferer.java:172)
+	at java.desktop/sun.awt.X11.XDataTransferer.getNativeForFormat(XDataTransferer.java:161)
+	at java.desktop/sun.awt.datatransfer.DataTransferer.getFlavorsForFormats(DataTransferer.java:423)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.checkContentsQuick(ClipboardSynchronizer.java:336)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.areDataFlavorsAvailable(ClipboardSynchronizer.java:263)
+	at com.intellij.ide.ClipboardSynchronizer.lambda$areDataFlavorsAvailable$0(ClipboardSynchronizer.java:73)
+	at com.intellij.openapi.application.ex.ClipboardUtil.handleClipboardSafely(ClipboardUtil.java:18)
+	at com.intellij.ide.ClipboardSynchronizer.areDataFlavorsAvailable(ClipboardSynchronizer.java:73)
+	at com.intellij.ide.LocalCopyPasteManager.areDataFlavorsAvailable(LocalCopyPasteManager.java:45)
+	at com.intellij.ide.LocalCopyPasteManager.getContents(LocalCopyPasteManager.java:220)
+	at com.intellij.ide.CopyPasteManagerEx.getContents(CopyPasteManagerEx.java:85)
+	at com.intellij.openapi.application.ex.ClipboardUtil.getTextInClipboard(ClipboardUtil.java:39)
+	at com.intellij.openapi.vcs.changes.patch.ApplyPatchFromClipboardAction.update(ApplyPatchFromClipboardAction.java:26)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performDumbAwareUpdate$0(ActionUtil.java:130)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareUpdate(ActionUtil.java:144)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.doUpdate(ActionUpdater.java:592)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.lambda$updateActionReal$7(ActionUpdater.java:132)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.lambda$callAction$9(ActionUpdater.java:187)
+	at com.intellij.openapi.progress.ProgressManager.lambda$runProcess$0(ProgressManager.java:57)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:183)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:705)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:647)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:63)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:170)
+	at com.intellij.openapi.progress.ProgressManager.runProcess(ProgressManager.java:57)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdater.lambda$callAction$10(ActionUpdater.java:185)
+	at com.intellij.openapi.actionSystem.impl.ActionUpdateEdtExecutor.lambda$computeOnEdt$0(ActionUpdateEdtExecutor.java:45)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:199)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$invokeLater$4(ApplicationImpl.java:350)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:84)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:133)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:46)
+	at com.intellij.openapi.application.impl.FlushQueue$FlushNow.run(FlushQueue.java:189)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:885)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:754)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:825)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:440)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:486)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-11-08 15:23:48,670 [  11684]   WARN - ctionSystem.impl.ActionUpdater - Slow (104 ms) `com.intellij.openapi.vcs.changes.patch.ApplyPatchFromClipboardAction#update`. Consider speeding it up and/or implementing UpdateInBackground. 
+Atom was 0
+2021-11-08 15:26:42,446 [ 185460]   WARN - i.application.ex.ClipboardUtil - Java bug #6322854 
+java.lang.NullPointerException: Failed to retrieve atom name.
+	at java.desktop/sun.awt.X11.XlibWrapper.XGetAtomName(Native Method)
+	at java.desktop/sun.awt.X11.XAtom.getName(XAtom.java:189)
+	at java.desktop/sun.awt.X11.XDataTransferer.getTargetNameForAtom(XDataTransferer.java:172)
+	at java.desktop/sun.awt.X11.XDataTransferer.getNativeForFormat(XDataTransferer.java:161)
+	at java.desktop/sun.awt.datatransfer.DataTransferer.getFlavorsForFormats(DataTransferer.java:423)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.checkContentsQuick(ClipboardSynchronizer.java:336)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.areDataFlavorsAvailable(ClipboardSynchronizer.java:263)
+	at com.intellij.ide.ClipboardSynchronizer.lambda$areDataFlavorsAvailable$0(ClipboardSynchronizer.java:73)
+	at com.intellij.openapi.application.ex.ClipboardUtil.handleClipboardSafely(ClipboardUtil.java:18)
+	at com.intellij.ide.ClipboardSynchronizer.areDataFlavorsAvailable(ClipboardSynchronizer.java:73)
+	at com.intellij.ide.LocalCopyPasteManager.areDataFlavorsAvailable(LocalCopyPasteManager.java:45)
+	at com.intellij.ide.LocalCopyPasteManager.getContents(LocalCopyPasteManager.java:220)
+	at com.intellij.ide.CopyPasteManagerEx.getContents(CopyPasteManagerEx.java:85)
+	at com.intellij.ide.macro.ClipboardContentMacro.expand(ClipboardContentMacro.java:42)
+	at com.intellij.ide.macro.Macro.cachePreview(Macro.java:56)
+	at com.intellij.ide.macro.MacroManager.cacheMacrosPreview(MacroManager.java:102)
+	at com.intellij.execution.ExecutorRegistryImpl$ExecutorAction.actionPerformed(ExecutorRegistryImpl.java:358)
+	at com.intellij.openapi.keymap.impl.ActionProcessor.performAction(ActionProcessor.java:65)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$1.performAction(IdeKeyEventDispatcher.java:563)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.lambda$doPerformActionInner$8(IdeKeyEventDispatcher.java:677)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:261)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.doPerformActionInner(IdeKeyEventDispatcher.java:670)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:603)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:574)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processActionOrWaitSecondStroke(IdeKeyEventDispatcher.java:457)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.inInitState(IdeKeyEventDispatcher.java:450)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:218)
+	at com.intellij.ide.IdeEventQueue.dispatchKeyEvent(IdeEventQueue.java:798)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:825)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:440)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:492)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Atom was 0
+2021-11-08 15:28:27,578 [ 290592]   WARN - ution.process.OSProcessHandler - Process has been already terminated: /home/zhouxing/anaconda3/envs/i2dl/bin/python /opt/pycharm-community-2021.2.3/plugins/python-ce/helpers/pydev/pydevd.py --multiproc --qt-support=auto --client 127.0.0.1 --port 43613 --file /home/zhouxing/Documents/i2dl_exercises/exercise_03/test.py 
+Atom was 0
+Atom was 0
+Atom was 0
+2021-11-09 00:08:41,552 [31504566]   WARN - i.application.ex.ClipboardUtil - Java bug #6322854 
+java.lang.NullPointerException: Failed to retrieve atom name.
+	at java.desktop/sun.awt.X11.XlibWrapper.XGetAtomName(Native Method)
+	at java.desktop/sun.awt.X11.XAtom.getName(XAtom.java:189)
+	at java.desktop/sun.awt.X11.XDataTransferer.getTargetNameForAtom(XDataTransferer.java:172)
+	at java.desktop/sun.awt.X11.XDataTransferer.getNativeForFormat(XDataTransferer.java:161)
+	at java.desktop/sun.awt.datatransfer.DataTransferer.getFlavorsForFormats(DataTransferer.java:423)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.checkContentsQuick(ClipboardSynchronizer.java:336)
+	at com.intellij.ide.ClipboardSynchronizer$XWinClipboardHandler.areDataFlavorsAvailable(ClipboardSynchronizer.java:263)
+	at com.intellij.ide.ClipboardSynchronizer.lambda$areDataFlavorsAvailable$0(ClipboardSynchronizer.java:73)
+	at com.intellij.openapi.application.ex.ClipboardUtil.handleClipboardSafely(ClipboardUtil.java:18)
+	at com.intellij.ide.ClipboardSynchronizer.areDataFlavorsAvailable(ClipboardSynchronizer.java:73)
+	at com.intellij.ide.LocalCopyPasteManager.areDataFlavorsAvailable(LocalCopyPasteManager.java:45)
+	at com.intellij.ide.LocalCopyPasteManager.getContents(LocalCopyPasteManager.java:220)
+	at com.intellij.ide.LocalCopyPasteManager.getAllContents(LocalCopyPasteManager.java:229)
+	at com.intellij.ide.CopyPasteManagerEx.getAllContents(CopyPasteManagerEx.java:90)
+	at com.intellij.ide.PsiCopyPasteManager$1.projectClosing(PsiCopyPasteManager.java:59)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeMethod(MessageBusImpl.java:645)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:620)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$300(MessageBusImpl.java:33)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.executeOrAddToQueue(MessageBusImpl.java:208)
+	at com.intellij.util.messages.impl.CompositeMessageBus$ToDirectChildrenMessagePublisher.publish(CompositeMessageBus.java:105)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.invoke(MessageBusImpl.java:166)
+	at com.sun.proxy.$Proxy59.projectClosing(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectClosing(ProjectManagerImpl.java:408)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$closeProject$5(ProjectManagerImpl.java:365)
+	at com.intellij.openapi.util.ShutDownTracker.executeWithStopperThread(ShutDownTracker.java:114)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeProject(ProjectManagerImpl.java:348)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeAndDisposeAllProjects(ProjectManagerImpl.java:295)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:205)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:602)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:555)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:544)
+	at com.intellij.openapi.application.ex.ApplicationEx.exit(ApplicationEx.java:75)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.quitApp(CloseProjectWindowHelper.kt:65)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.windowClosing(CloseProjectWindowHelper.kt:43)
+	at com.intellij.openapi.wm.impl.ProjectFrameHelper$2.windowClosing(ProjectFrameHelper.java:228)
+	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+	at java.desktop/java.awt.Window.processWindowEvent(Window.java:2090)
+	at java.desktop/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
+	at java.desktop/java.awt.Window.processEvent(Window.java:2049)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:885)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:754)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:825)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:440)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:492)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+[C 13:27:27.900 NotebookApp] received signal 15, stopping
+[C 13:27:27.901 NotebookApp] received signal 15, stopping
+[I 13:27:27.905 NotebookApp] Shutting down 1 kernel
+[C 13:27:27.916 NotebookApp] received signal 15, stopping
+[I 13:27:27.919 NotebookApp] Shutting down 1 kernel
+[I 13:27:27.925 NotebookApp] Shutting down 1 kernel
+[C 13:27:27.906 NotebookApp] received signal 15, stopping
+[I 13:27:27.939 NotebookApp] Kernel shutdown: d98aa9a4-f7fe-4ef4-98cc-5d1b63580cea
+[I 13:27:27.952 NotebookApp] Shutting down 1 kernel
+[I 13:27:28.830 NotebookApp] Kernel shutdown: 234d187c-dade-4c6c-9a92-8cf8625276dc
+[I 13:27:28.995 NotebookApp] Kernel shutdown: f054ff75-d7c8-4c6a-ab0b-f42cfc69d67f
+[I 13:27:29.035 NotebookApp] Kernel shutdown: f5e033f7-6a71-4ab9-adeb-7a9095b18f6e
