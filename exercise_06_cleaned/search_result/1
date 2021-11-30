@@ -1,0 +1,402 @@
+1000 samples
+20 num_search
+
+
+
+Evaluating Config #1 [of 20]:
+ {'learning_rate': 2.851473314485876e-05, 'reg': 0.000864706881203698, 'hidden_size': 241, 'num_layer': 2, 'activation': <exercise_code.networks.layer.Tanh object at 0x7f968dd40a50>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.303118; val loss: 2.303117
+(Epoch 2 / 20) train loss: 2.243551; val loss: 2.139013
+(Epoch 3 / 20) train loss: 2.118441; val loss: 2.037292
+(Epoch 4 / 20) train loss: 2.036790; val loss: 1.991165
+(Epoch 5 / 20) train loss: 1.978342; val loss: 1.951026
+(Epoch 6 / 20) train loss: 1.932547; val loss: 1.933126
+(Epoch 7 / 20) train loss: 1.893717; val loss: 1.911899
+(Epoch 8 / 20) train loss: 1.857644; val loss: 1.895133
+(Epoch 9 / 20) train loss: 1.823450; val loss: 1.886675
+(Epoch 10 / 20) train loss: 1.788882; val loss: 1.876983
+(Epoch 11 / 20) train loss: 1.758396; val loss: 1.867798
+(Epoch 12 / 20) train loss: 1.725890; val loss: 1.871589
+(Epoch 13 / 20) train loss: 1.694580; val loss: 1.863275
+(Epoch 14 / 20) train loss: 1.664900; val loss: 1.852679
+(Epoch 15 / 20) train loss: 1.635990; val loss: 1.859510
+(Epoch 16 / 20) train loss: 1.609293; val loss: 1.856800
+(Epoch 17 / 20) train loss: 1.580220; val loss: 1.868543
+(Epoch 18 / 20) train loss: 1.555443; val loss: 1.868167
+(Epoch 19 / 20) train loss: 1.525937; val loss: 1.887181
+Stopping early at epoch 18!
+
+Evaluating Config #2 [of 20]:
+ {'learning_rate': 6.555863085149935e-05, 'reg': 0.00022556815861467664, 'hidden_size': 394, 'num_layer': 2, 'activation': <exercise_code.networks.layer.Tanh object at 0x7f968dd40a50>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302876; val loss: 2.302706
+(Epoch 2 / 20) train loss: 2.156567; val loss: 1.981640
+(Epoch 3 / 20) train loss: 1.959944; val loss: 1.921835
+(Epoch 4 / 20) train loss: 1.856882; val loss: 1.891429
+(Epoch 5 / 20) train loss: 1.764128; val loss: 1.844433
+(Epoch 6 / 20) train loss: 1.689811; val loss: 1.884574
+(Epoch 7 / 20) train loss: 1.616608; val loss: 1.881067
+(Epoch 8 / 20) train loss: 1.544639; val loss: 1.906916
+(Epoch 9 / 20) train loss: 1.469381; val loss: 1.886968
+(Epoch 10 / 20) train loss: 1.399003; val loss: 1.900089
+Stopping early at epoch 9!
+
+Evaluating Config #3 [of 20]:
+ {'learning_rate': 0.0004186710461073843, 'reg': 2.939809661132149e-06, 'hidden_size': 292, 'num_layer': 5, 'activation': <exercise_code.networks.layer.Tanh object at 0x7f968dd40a50>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302588; val loss: 2.302588
+(Epoch 2 / 20) train loss: 2.302788; val loss: 2.302280
+(Epoch 3 / 20) train loss: 2.302583; val loss: 2.302968
+(Epoch 4 / 20) train loss: 2.301885; val loss: 2.303143
+(Epoch 5 / 20) train loss: 2.284756; val loss: 2.242787
+(Epoch 6 / 20) train loss: 2.164259; val loss: 2.181412
+(Epoch 7 / 20) train loss: 2.083117; val loss: 1.980811
+(Epoch 8 / 20) train loss: 2.011595; val loss: 1.986389
+(Epoch 9 / 20) train loss: 1.956402; val loss: 1.946819
+(Epoch 10 / 20) train loss: 1.905555; val loss: 2.001174
+(Epoch 11 / 20) train loss: 1.850462; val loss: 2.040053
+(Epoch 12 / 20) train loss: 1.814439; val loss: 1.942256
+(Epoch 13 / 20) train loss: 1.746661; val loss: 2.068591
+(Epoch 14 / 20) train loss: 1.714504; val loss: 1.976706
+(Epoch 15 / 20) train loss: 1.658421; val loss: 2.001406
+(Epoch 16 / 20) train loss: 1.590894; val loss: 2.001055
+(Epoch 17 / 20) train loss: 1.563826; val loss: 1.935804
+(Epoch 18 / 20) train loss: 1.471873; val loss: 2.171494
+(Epoch 19 / 20) train loss: 1.433292; val loss: 2.107193
+(Epoch 20 / 20) train loss: 1.405742; val loss: 2.207990
+
+Evaluating Config #4 [of 20]:
+ {'learning_rate': 2.3730299524101432e-05, 'reg': 3.8527354163885724e-05, 'hidden_size': 138, 'num_layer': 2, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302619; val loss: 2.302560
+(Epoch 2 / 20) train loss: 2.277900; val loss: 2.206170
+(Epoch 3 / 20) train loss: 2.164013; val loss: 2.076852
+(Epoch 4 / 20) train loss: 2.068692; val loss: 2.002245
+(Epoch 5 / 20) train loss: 1.997751; val loss: 1.951323
+(Epoch 6 / 20) train loss: 1.942335; val loss: 1.918162
+(Epoch 7 / 20) train loss: 1.896937; val loss: 1.891839
+(Epoch 8 / 20) train loss: 1.860913; val loss: 1.872832
+(Epoch 9 / 20) train loss: 1.829548; val loss: 1.854512
+(Epoch 10 / 20) train loss: 1.801790; val loss: 1.847914
+(Epoch 11 / 20) train loss: 1.776106; val loss: 1.837589
+(Epoch 12 / 20) train loss: 1.752929; val loss: 1.823649
+(Epoch 13 / 20) train loss: 1.730993; val loss: 1.813705
+(Epoch 14 / 20) train loss: 1.710375; val loss: 1.808974
+(Epoch 15 / 20) train loss: 1.689490; val loss: 1.809813
+(Epoch 16 / 20) train loss: 1.668988; val loss: 1.798066
+(Epoch 17 / 20) train loss: 1.649536; val loss: 1.795365
+(Epoch 18 / 20) train loss: 1.630659; val loss: 1.798508
+(Epoch 19 / 20) train loss: 1.611658; val loss: 1.792918
+(Epoch 20 / 20) train loss: 1.594668; val loss: 1.787359
+
+Evaluating Config #5 [of 20]:
+ {'learning_rate': 1.2602306737495161e-05, 'reg': 0.00012479553811528757, 'hidden_size': 260, 'num_layer': 5, 'activation': <exercise_code.networks.layer.Sigmoid object at 0x7f968dd40b10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302898; val loss: 2.302804
+(Epoch 2 / 20) train loss: 2.303499; val loss: 2.301137
+(Epoch 3 / 20) train loss: 2.301979; val loss: 2.302124
+(Epoch 4 / 20) train loss: 2.301265; val loss: 2.302354
+(Epoch 5 / 20) train loss: 2.300875; val loss: 2.302555
+(Epoch 6 / 20) train loss: 2.300838; val loss: 2.303009
+(Epoch 7 / 20) train loss: 2.300404; val loss: 2.303252
+Stopping early at epoch 6!
+
+Evaluating Config #6 [of 20]:
+ {'learning_rate': 1.7067378906276625e-05, 'reg': 0.00012369358616265823, 'hidden_size': 228, 'num_layer': 2, 'activation': <exercise_code.networks.layer.Sigmoid object at 0x7f968dd40b10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302440; val loss: 2.303388
+(Epoch 2 / 20) train loss: 2.299720; val loss: 2.294671
+(Epoch 3 / 20) train loss: 2.287678; val loss: 2.279130
+(Epoch 4 / 20) train loss: 2.268726; val loss: 2.254027
+(Epoch 5 / 20) train loss: 2.245060; val loss: 2.225919
+(Epoch 6 / 20) train loss: 2.220212; val loss: 2.196643
+(Epoch 7 / 20) train loss: 2.195750; val loss: 2.169388
+(Epoch 8 / 20) train loss: 2.172073; val loss: 2.144372
+(Epoch 9 / 20) train loss: 2.149230; val loss: 2.121520
+(Epoch 10 / 20) train loss: 2.127810; val loss: 2.101654
+(Epoch 11 / 20) train loss: 2.107393; val loss: 2.083404
+(Epoch 12 / 20) train loss: 2.088414; val loss: 2.066472
+(Epoch 13 / 20) train loss: 2.070657; val loss: 2.052989
+(Epoch 14 / 20) train loss: 2.053633; val loss: 2.039438
+(Epoch 15 / 20) train loss: 2.038127; val loss: 2.027374
+(Epoch 16 / 20) train loss: 2.023618; val loss: 2.015765
+(Epoch 17 / 20) train loss: 2.009466; val loss: 2.005859
+(Epoch 18 / 20) train loss: 1.995960; val loss: 1.997889
+(Epoch 19 / 20) train loss: 1.983538; val loss: 1.987604
+(Epoch 20 / 20) train loss: 1.971836; val loss: 1.979424
+
+Evaluating Config #7 [of 20]:
+ {'learning_rate': 0.004327577436557199, 'reg': 8.003280125074938e-07, 'hidden_size': 367, 'num_layer': 4, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302586; val loss: 2.302586
+(Epoch 2 / 20) train loss: 2.876551; val loss: 3.361664
+(Epoch 3 / 20) train loss: 3.729268; val loss: 4.874835
+(Epoch 4 / 20) train loss: 4.625305; val loss: 3.002038
+(Epoch 5 / 20) train loss: 4.291130; val loss: 7.302397
+(Epoch 6 / 20) train loss: 3.661463; val loss: 4.381592
+Stopping early at epoch 5!
+
+Evaluating Config #8 [of 20]:
+ {'learning_rate': 1.3592004228146393e-06, 'reg': 0.000527838816042132, 'hidden_size': 379, 'num_layer': 3, 'activation': <exercise_code.networks.layer.Sigmoid object at 0x7f968dd40b10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.303563; val loss: 2.303926
+(Epoch 2 / 20) train loss: 2.303604; val loss: 2.303848
+(Epoch 3 / 20) train loss: 2.303249; val loss: 2.303795
+(Epoch 4 / 20) train loss: 2.302972; val loss: 2.303609
+(Epoch 5 / 20) train loss: 2.302750; val loss: 2.303591
+(Epoch 6 / 20) train loss: 2.302514; val loss: 2.303470
+(Epoch 7 / 20) train loss: 2.302287; val loss: 2.303429
+(Epoch 8 / 20) train loss: 2.302079; val loss: 2.303422
+(Epoch 9 / 20) train loss: 2.301901; val loss: 2.303315
+(Epoch 10 / 20) train loss: 2.301746; val loss: 2.303377
+(Epoch 11 / 20) train loss: 2.301597; val loss: 2.303339
+(Epoch 12 / 20) train loss: 2.301466; val loss: 2.303261
+(Epoch 13 / 20) train loss: 2.301341; val loss: 2.303238
+(Epoch 14 / 20) train loss: 2.301202; val loss: 2.303253
+(Epoch 15 / 20) train loss: 2.301101; val loss: 2.303266
+(Epoch 16 / 20) train loss: 2.300996; val loss: 2.303305
+(Epoch 17 / 20) train loss: 2.300921; val loss: 2.303366
+(Epoch 18 / 20) train loss: 2.300815; val loss: 2.303371
+Stopping early at epoch 17!
+
+Evaluating Config #9 [of 20]:
+ {'learning_rate': 6.794402989878008e-05, 'reg': 1.840426110193744e-07, 'hidden_size': 378, 'num_layer': 2, 'activation': <exercise_code.networks.layer.Sigmoid object at 0x7f968dd40b10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302769; val loss: 2.304034
+(Epoch 2 / 20) train loss: 2.277989; val loss: 2.203022
+(Epoch 3 / 20) train loss: 2.166600; val loss: 2.067946
+(Epoch 4 / 20) train loss: 2.065339; val loss: 2.007655
+(Epoch 5 / 20) train loss: 1.992463; val loss: 1.954434
+(Epoch 6 / 20) train loss: 1.933557; val loss: 1.931120
+(Epoch 7 / 20) train loss: 1.886094; val loss: 1.905858
+(Epoch 8 / 20) train loss: 1.839157; val loss: 1.875973
+(Epoch 9 / 20) train loss: 1.793434; val loss: 1.863426
+(Epoch 10 / 20) train loss: 1.753179; val loss: 1.833464
+(Epoch 11 / 20) train loss: 1.712637; val loss: 1.840838
+(Epoch 12 / 20) train loss: 1.670159; val loss: 1.841475
+(Epoch 13 / 20) train loss: 1.633360; val loss: 1.818724
+(Epoch 14 / 20) train loss: 1.593276; val loss: 1.836488
+(Epoch 15 / 20) train loss: 1.556383; val loss: 1.839629
+(Epoch 16 / 20) train loss: 1.523675; val loss: 1.827484
+(Epoch 17 / 20) train loss: 1.487220; val loss: 1.832474
+(Epoch 18 / 20) train loss: 1.455431; val loss: 1.833443
+Stopping early at epoch 17!
+
+Evaluating Config #10 [of 20]:
+ {'learning_rate': 1.2904612233321364e-05, 'reg': 1.679092574280846e-05, 'hidden_size': 259, 'num_layer': 3, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302599; val loss: 2.302599
+(Epoch 2 / 20) train loss: 2.302592; val loss: 2.302563
+(Epoch 3 / 20) train loss: 2.302414; val loss: 2.301530
+(Epoch 4 / 20) train loss: 2.288507; val loss: 2.223276
+(Epoch 5 / 20) train loss: 2.200890; val loss: 2.108518
+(Epoch 6 / 20) train loss: 2.132364; val loss: 2.082110
+(Epoch 7 / 20) train loss: 2.100950; val loss: 2.066700
+(Epoch 8 / 20) train loss: 2.082061; val loss: 2.056895
+(Epoch 9 / 20) train loss: 2.064412; val loss: 2.047089
+(Epoch 10 / 20) train loss: 2.049859; val loss: 2.038278
+(Epoch 11 / 20) train loss: 2.036681; val loss: 2.024178
+(Epoch 12 / 20) train loss: 2.024220; val loss: 2.014203
+(Epoch 13 / 20) train loss: 2.011422; val loss: 2.013650
+(Epoch 14 / 20) train loss: 1.997800; val loss: 2.000376
+(Epoch 15 / 20) train loss: 1.982641; val loss: 1.982782
+(Epoch 16 / 20) train loss: 1.965929; val loss: 1.974911
+(Epoch 17 / 20) train loss: 1.949804; val loss: 1.957520
+(Epoch 18 / 20) train loss: 1.932082; val loss: 1.942697
+(Epoch 19 / 20) train loss: 1.913856; val loss: 1.937566
+(Epoch 20 / 20) train loss: 1.895987; val loss: 1.927045
+
+Evaluating Config #11 [of 20]:
+ {'learning_rate': 2.8789856289432964e-06, 'reg': 1.4042963913514292e-07, 'hidden_size': 368, 'num_layer': 5, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302585; val loss: 2.302585
+(Epoch 2 / 20) train loss: 2.302586; val loss: 2.302586
+(Epoch 3 / 20) train loss: 2.302583; val loss: 2.302584
+(Epoch 4 / 20) train loss: 2.302579; val loss: 2.302584
+(Epoch 5 / 20) train loss: 2.302576; val loss: 2.302583
+(Epoch 6 / 20) train loss: 2.302572; val loss: 2.302582
+(Epoch 7 / 20) train loss: 2.302569; val loss: 2.302581
+(Epoch 8 / 20) train loss: 2.302566; val loss: 2.302579
+(Epoch 9 / 20) train loss: 2.302562; val loss: 2.302579
+(Epoch 10 / 20) train loss: 2.302559; val loss: 2.302578
+(Epoch 11 / 20) train loss: 2.302555; val loss: 2.302577
+(Epoch 12 / 20) train loss: 2.302552; val loss: 2.302577
+(Epoch 13 / 20) train loss: 2.302548; val loss: 2.302575
+(Epoch 14 / 20) train loss: 2.302545; val loss: 2.302575
+(Epoch 15 / 20) train loss: 2.302541; val loss: 2.302572
+(Epoch 16 / 20) train loss: 2.302538; val loss: 2.302572
+(Epoch 17 / 20) train loss: 2.302534; val loss: 2.302571
+(Epoch 18 / 20) train loss: 2.302531; val loss: 2.302570
+(Epoch 19 / 20) train loss: 2.302527; val loss: 2.302569
+(Epoch 20 / 20) train loss: 2.302524; val loss: 2.302567
+
+Evaluating Config #12 [of 20]:
+ {'learning_rate': 0.0016032985280729356, 'reg': 1.5327861893084058e-05, 'hidden_size': 130, 'num_layer': 3, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302592; val loss: 2.302592
+(Epoch 2 / 20) train loss: 2.262314; val loss: 2.115316
+(Epoch 3 / 20) train loss: 1.990554; val loss: 2.050800
+(Epoch 4 / 20) train loss: 1.916825; val loss: 2.061073
+(Epoch 5 / 20) train loss: 1.802453; val loss: 1.843069
+(Epoch 6 / 20) train loss: 1.641240; val loss: 2.195120
+(Epoch 7 / 20) train loss: 1.570775; val loss: 2.043563
+(Epoch 8 / 20) train loss: 1.518698; val loss: 2.180968
+(Epoch 9 / 20) train loss: 1.385112; val loss: 2.529829
+(Epoch 10 / 20) train loss: 1.241528; val loss: 2.364839
+Stopping early at epoch 9!
+
+Evaluating Config #13 [of 20]:
+ {'learning_rate': 2.2333337107782933e-05, 'reg': 4.2735086679285226e-05, 'hidden_size': 268, 'num_layer': 3, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302623; val loss: 2.302623
+(Epoch 2 / 20) train loss: 2.302593; val loss: 2.302454
+(Epoch 3 / 20) train loss: 2.285699; val loss: 2.200274
+(Epoch 4 / 20) train loss: 2.159779; val loss: 2.095763
+(Epoch 5 / 20) train loss: 2.101899; val loss: 2.070172
+(Epoch 6 / 20) train loss: 2.069727; val loss: 2.046053
+(Epoch 7 / 20) train loss: 2.043324; val loss: 2.004913
+(Epoch 8 / 20) train loss: 2.015369; val loss: 2.001920
+(Epoch 9 / 20) train loss: 1.984835; val loss: 1.959619
+(Epoch 10 / 20) train loss: 1.950626; val loss: 1.939668
+(Epoch 11 / 20) train loss: 1.914920; val loss: 1.898242
+(Epoch 12 / 20) train loss: 1.883191; val loss: 1.898422
+(Epoch 13 / 20) train loss: 1.853087; val loss: 1.896540
+(Epoch 14 / 20) train loss: 1.824140; val loss: 1.884826
+(Epoch 15 / 20) train loss: 1.802316; val loss: 1.897392
+(Epoch 16 / 20) train loss: 1.776546; val loss: 1.898149
+(Epoch 17 / 20) train loss: 1.750173; val loss: 1.870562
+(Epoch 18 / 20) train loss: 1.731077; val loss: 1.901807
+(Epoch 19 / 20) train loss: 1.709488; val loss: 1.894689
+(Epoch 20 / 20) train loss: 1.688303; val loss: 1.892391
+
+Evaluating Config #14 [of 20]:
+ {'learning_rate': 1.9698631895148077e-05, 'reg': 4.516318487992879e-06, 'hidden_size': 389, 'num_layer': 5, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302593; val loss: 2.302593
+(Epoch 2 / 20) train loss: 2.302597; val loss: 2.302579
+(Epoch 3 / 20) train loss: 2.302571; val loss: 2.302572
+(Epoch 4 / 20) train loss: 2.302549; val loss: 2.302565
+(Epoch 5 / 20) train loss: 2.302527; val loss: 2.302559
+(Epoch 6 / 20) train loss: 2.302504; val loss: 2.302560
+(Epoch 7 / 20) train loss: 2.302478; val loss: 2.302548
+(Epoch 8 / 20) train loss: 2.302452; val loss: 2.302546
+(Epoch 9 / 20) train loss: 2.302432; val loss: 2.302538
+(Epoch 10 / 20) train loss: 2.302402; val loss: 2.302527
+(Epoch 11 / 20) train loss: 2.302373; val loss: 2.302518
+(Epoch 12 / 20) train loss: 2.302346; val loss: 2.302507
+(Epoch 13 / 20) train loss: 2.302315; val loss: 2.302502
+(Epoch 14 / 20) train loss: 2.302281; val loss: 2.302492
+(Epoch 15 / 20) train loss: 2.302247; val loss: 2.302485
+(Epoch 16 / 20) train loss: 2.302212; val loss: 2.302473
+(Epoch 17 / 20) train loss: 2.302180; val loss: 2.302468
+(Epoch 18 / 20) train loss: 2.302142; val loss: 2.302457
+(Epoch 19 / 20) train loss: 2.302100; val loss: 2.302444
+(Epoch 20 / 20) train loss: 2.302061; val loss: 2.302431
+
+Evaluating Config #15 [of 20]:
+ {'learning_rate': 2.2481393701708777e-05, 'reg': 0.0009188758457050113, 'hidden_size': 250, 'num_layer': 5, 'activation': <exercise_code.networks.layer.Sigmoid object at 0x7f968dd40b10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.303664; val loss: 2.302384
+(Epoch 2 / 20) train loss: 2.304252; val loss: 2.302916
+(Epoch 3 / 20) train loss: 2.302444; val loss: 2.303409
+(Epoch 4 / 20) train loss: 2.301760; val loss: 2.303771
+(Epoch 5 / 20) train loss: 2.301408; val loss: 2.304322
+(Epoch 6 / 20) train loss: 2.301269; val loss: 2.304167
+Stopping early at epoch 5!
+
+Evaluating Config #16 [of 20]:
+ {'learning_rate': 0.00045543229329130495, 'reg': 3.3540137036802834e-07, 'hidden_size': 110, 'num_layer': 2, 'activation': <exercise_code.networks.layer.Tanh object at 0x7f968dd40a50>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302591; val loss: 2.302553
+(Epoch 2 / 20) train loss: 2.103458; val loss: 1.958937
+(Epoch 3 / 20) train loss: 1.935655; val loss: 1.934648
+(Epoch 4 / 20) train loss: 1.826407; val loss: 1.908504
+(Epoch 5 / 20) train loss: 1.746454; val loss: 1.844817
+(Epoch 6 / 20) train loss: 1.652182; val loss: 1.862567
+(Epoch 7 / 20) train loss: 1.570110; val loss: 1.896080
+(Epoch 8 / 20) train loss: 1.488548; val loss: 1.933602
+(Epoch 9 / 20) train loss: 1.396249; val loss: 1.955263
+(Epoch 10 / 20) train loss: 1.327282; val loss: 1.957940
+Stopping early at epoch 9!
+
+Evaluating Config #17 [of 20]:
+ {'learning_rate': 5.145451610223831e-06, 'reg': 5.842823177176871e-05, 'hidden_size': 177, 'num_layer': 4, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302621; val loss: 2.302621
+(Epoch 2 / 20) train loss: 2.302621; val loss: 2.302619
+(Epoch 3 / 20) train loss: 2.302615; val loss: 2.302618
+(Epoch 4 / 20) train loss: 2.302609; val loss: 2.302615
+(Epoch 5 / 20) train loss: 2.302603; val loss: 2.302614
+(Epoch 6 / 20) train loss: 2.302597; val loss: 2.302613
+(Epoch 7 / 20) train loss: 2.302591; val loss: 2.302608
+(Epoch 8 / 20) train loss: 2.302585; val loss: 2.302610
+(Epoch 9 / 20) train loss: 2.302578; val loss: 2.302607
+(Epoch 10 / 20) train loss: 2.302572; val loss: 2.302604
+(Epoch 11 / 20) train loss: 2.302567; val loss: 2.302602
+(Epoch 12 / 20) train loss: 2.302560; val loss: 2.302601
+(Epoch 13 / 20) train loss: 2.302554; val loss: 2.302599
+(Epoch 14 / 20) train loss: 2.302548; val loss: 2.302598
+(Epoch 15 / 20) train loss: 2.302542; val loss: 2.302596
+(Epoch 16 / 20) train loss: 2.302535; val loss: 2.302593
+(Epoch 17 / 20) train loss: 2.302529; val loss: 2.302592
+(Epoch 18 / 20) train loss: 2.302522; val loss: 2.302591
+(Epoch 19 / 20) train loss: 2.302516; val loss: 2.302590
+(Epoch 20 / 20) train loss: 2.302510; val loss: 2.302589
+
+Evaluating Config #18 [of 20]:
+ {'learning_rate': 5.38271244397894e-05, 'reg': 0.00013784578756730585, 'hidden_size': 244, 'num_layer': 2, 'activation': <exercise_code.networks.layer.Sigmoid object at 0x7f968dd40b10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302950; val loss: 2.303721
+(Epoch 2 / 20) train loss: 2.289281; val loss: 2.252170
+(Epoch 3 / 20) train loss: 2.220405; val loss: 2.160903
+(Epoch 4 / 20) train loss: 2.147827; val loss: 2.093347
+(Epoch 5 / 20) train loss: 2.084563; val loss: 2.042538
+(Epoch 6 / 20) train loss: 2.035001; val loss: 2.001092
+(Epoch 7 / 20) train loss: 1.991555; val loss: 1.967159
+(Epoch 8 / 20) train loss: 1.952788; val loss: 1.950806
+(Epoch 9 / 20) train loss: 1.919839; val loss: 1.926336
+(Epoch 10 / 20) train loss: 1.888371; val loss: 1.908641
+(Epoch 11 / 20) train loss: 1.858933; val loss: 1.892931
+(Epoch 12 / 20) train loss: 1.829569; val loss: 1.888333
+(Epoch 13 / 20) train loss: 1.801939; val loss: 1.868067
+(Epoch 14 / 20) train loss: 1.774203; val loss: 1.863532
+(Epoch 15 / 20) train loss: 1.748544; val loss: 1.843987
+(Epoch 16 / 20) train loss: 1.721385; val loss: 1.844996
+(Epoch 17 / 20) train loss: 1.694462; val loss: 1.837487
+(Epoch 18 / 20) train loss: 1.668954; val loss: 1.838846
+(Epoch 19 / 20) train loss: 1.644921; val loss: 1.839884
+(Epoch 20 / 20) train loss: 1.620734; val loss: 1.846322
+
+Evaluating Config #19 [of 20]:
+ {'learning_rate': 0.000647175892992698, 'reg': 5.153840523644962e-07, 'hidden_size': 244, 'num_layer': 4, 'activation': <exercise_code.networks.layer.Tanh object at 0x7f968dd40a50>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302586; val loss: 2.302586
+(Epoch 2 / 20) train loss: 2.208365; val loss: 2.053559
+(Epoch 3 / 20) train loss: 2.097739; val loss: 2.056189
+(Epoch 4 / 20) train loss: 2.020662; val loss: 2.007599
+(Epoch 5 / 20) train loss: 1.966265; val loss: 1.918506
+(Epoch 6 / 20) train loss: 1.899247; val loss: 2.042119
+(Epoch 7 / 20) train loss: 1.875494; val loss: 2.100954
+(Epoch 8 / 20) train loss: 1.798410; val loss: 1.931696
+(Epoch 9 / 20) train loss: 1.758883; val loss: 1.975292
+(Epoch 10 / 20) train loss: 1.712038; val loss: 1.986728
+Stopping early at epoch 9!
+
+Evaluating Config #20 [of 20]:
+ {'learning_rate': 2.6752645335447553e-06, 'reg': 0.00039343694765297404, 'hidden_size': 137, 'num_layer': 5, 'activation': <exercise_code.networks.layer.Sigmoid object at 0x7f968dd40b10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+(Epoch 1 / 20) train loss: 2.302753; val loss: 2.303444
+(Epoch 2 / 20) train loss: 2.302750; val loss: 2.303298
+(Epoch 3 / 20) train loss: 2.302530; val loss: 2.303210
+(Epoch 4 / 20) train loss: 2.302333; val loss: 2.303209
+(Epoch 5 / 20) train loss: 2.302188; val loss: 2.303079
+(Epoch 6 / 20) train loss: 2.301995; val loss: 2.303048
+(Epoch 7 / 20) train loss: 2.301852; val loss: 2.303037
+(Epoch 8 / 20) train loss: 2.301709; val loss: 2.303010
+(Epoch 9 / 20) train loss: 2.301553; val loss: 2.302995
+(Epoch 10 / 20) train loss: 2.301422; val loss: 2.302967
+(Epoch 11 / 20) train loss: 2.301297; val loss: 2.302927
+(Epoch 12 / 20) train loss: 2.301196; val loss: 2.302900
+(Epoch 13 / 20) train loss: 2.301095; val loss: 2.302931
+(Epoch 14 / 20) train loss: 2.301007; val loss: 2.302867
+(Epoch 15 / 20) train loss: 2.300873; val loss: 2.302887
+(Epoch 16 / 20) train loss: 2.300815; val loss: 2.302883
+(Epoch 17 / 20) train loss: 2.300704; val loss: 2.302865
+(Epoch 18 / 20) train loss: 2.300631; val loss: 2.302951
+(Epoch 19 / 20) train loss: 2.300561; val loss: 2.302893
+(Epoch 20 / 20) train loss: 2.300481; val loss: 2.302960
+
+Search done. Best Val Loss = 1.7873586229721794
+Best Config: {'learning_rate': 2.3730299524101432e-05, 'reg': 3.8527354163885724e-05, 'hidden_size': 138, 'num_layer': 2, 'activation': <exercise_code.networks.layer.LeakyRelu object at 0x7f968dd40e10>, 'loss_func': <exercise_code.networks.loss.CrossEntropyFromLogits object at 0x7f968dd402d0>}
+
+
+
+
+
+
+learning_rate: 1e-4, 1e-6
+reg: 1e-4, 1e-6
+hidden_size: 100, 300
+num_later: 2, 3
+activation: all
